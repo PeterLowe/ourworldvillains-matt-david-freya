@@ -3,9 +3,10 @@ Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP] Matej Mart
 =======
 >>>>>>> master
 
-Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP] Matej Martinek [MM]
+Compiled by Peter Lowe [PL], David Strikaitis [DS], Freya Prananta [FP], Matej Martinek [MM]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
+
 ---- United States of America [pl]
 Land of the free and the home of the brave.
 <<<<<<< HEAD
@@ -26,26 +27,35 @@ Land where you can be animal food during safari
 =======
 ---- Canada [DS]
 America but waaay less crime, but bears
+---- Brazil [DS]
+Oh nooo, not Brazil. I dont wanna go back to Brazil.
 ---- Mexico [MM]
 Great cuisine!
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
+
 ---- France [pl]
 Ooh la la! 
 ---- Italy [DS]
 nice pizza, nice icecream, nice mafia and nice coffee
-----Czechia [MM]
+---- Ireland [DS]
+Some little men in green costumes tried to kidnap me once.
+-----Czechia [MM]
 home sweet home.
-----
-Slovakia [MM]
+----Slovakia [MM]
 best neighbours ever.
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
+
 ----- Egypt [pl]
 Home of the Pyramids
 ----- Chad [DS]
 funny name, funny people , everyone seems to have sharp chins
+----- Djibouti [DS]
+Obviously the most superior of country names, internationally, ever.
 ----Botswana [MM]
 coolest sounding country in Africa.
-----Etheopia [MM]
+----Etheopia [MM]  <--Matt spelt this wrong
 also a cool name.
 >>>>>>> master
 
@@ -57,18 +67,24 @@ Great Wall of China seen from space
 1300 ethnicities and 700 languages
 =======
 ------ Japan [DS]
+Pretty cool place, cool stuff
+----- vietnam [DS]
+cool place superior to America in armed conflict
 pretty cool place, cool stuff
 ----Korea [MM]
 home of kpop, i guess.
 >>>>>>> master
 
-+++++++++++++++++++ Rest of the Wrold ++++++++++++++++
++++++++++++++++++++ Rest of the Wrold +++++++++++++++
+
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
 ----- Australia [DS]
 ǝɹǝɥ ʇɥƃıɹlɐ sı ƃuıɥʇʎɹǝʌǝ
-----Antarctica [MM]
+----- Pacific ocean [DS]
+Not a country... dont ask, too much water
+-----Antarctica [MM]
 not actually a real country, but always a country in our hearts.
 ---- Arctica [MM]
 like Antarctica but on the other side of the world.
