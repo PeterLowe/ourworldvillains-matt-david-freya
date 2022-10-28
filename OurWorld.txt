@@ -4,28 +4,38 @@ Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP], Matej Mar
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
----- Canada [MM]
-Land of the free healthcare.
+<<<<<<< HEAD
+---- Canada [DS]
+America but waaay less crime, but bears
 
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
+---- Italy [DS]
+nice pizza, nice icecream, nice mafia and nice coffee
 Czechia [MM]
 home sweet home.
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
+----- Chad [DS]
+funny name, funny people , everyone seems to have sharp chins
 Botswana [MM]
 coolest sounding country in Africa.
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
-Japan [MM]
-great culture and technology.
-
+------ Japan [DS]
+pretty cool place, cool stuff
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+----- Australia [DS]
+ǝɹǝɥ ʇɥƃıɹlɐ sı ƃuıɥʇʎɹǝʌǝ
 Antarctica [MM]
 not actually a real country, but always a country in our hearts.
+
+
