@@ -1,10 +1,9 @@
-Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP], Matej Martinek [MM]
 
+Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP] Matej Martinek [MM]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
-<<<<<<< HEAD
 ---- Canada [DS]
 America but waaay less crime, but bears
 
@@ -29,13 +28,14 @@ coolest sounding country in Africa.
 Great Wall of China seen from space
 ------ Japan [DS]
 pretty cool place, cool stuff
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 The only thing more unthinkable than leaving was staying; 
 the only thing more impossible than staying was leaving.
+
 ----- Australia [DS]
 ǝɹǝɥ ʇɥƃıɹlɐ sı ƃuıɥʇʎɹǝʌǝ
 Antarctica [MM]
 not actually a real country, but always a country in our hearts.
-
 
