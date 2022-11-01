@@ -1,33 +1,18 @@
-<<<<<<< HEAD
-Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP] Matej Martinek [MM]
-=======
->>>>>>> master
-
 Compiled by Peter Lowe [PL] David Strikaitis [DS] Freya Prananta [FP] Matej Martinek [MM]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 Land of the free and the home of the brave.
-<<<<<<< HEAD
---- Brazil [FP]
-Land guarded by a 98 feet Jesus
-
-++++++++++++++++++++++   Europe   ++++++++++++++++++++
----- France [pl]
-Ooh la la! 
---- Netherlands [FP]
-One third below the sea level, so one third atlantis
-
-+++++++++++++++++++++     Africa  ++++++++++++++++++++
------ Egypt [pl]
-Home of the Pyramids
---- South Africa [FP]
-Land where you can be animal food during safari
-=======
 ---- Canada [DS]
 America but waaay less crime, but bears
 ---- Mexico [MM]
 Great cuisine!
+--- Brazil [DS] [FP]
+Oh nooo, not Brazil. I dont wanna go back to Brazil. [DS]
+Land guarded by a 98 feet Jesus [FP]
+--- Bahamas [FP]
+Swimming pigs
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 Ooh la la! 
@@ -35,9 +20,11 @@ Ooh la la!
 nice pizza, nice icecream, nice mafia and nice coffee
 ----Czechia [MM]
 home sweet home.
-----
-Slovakia [MM]
+----Slovakia [MM]
 best neighbours ever.
+--- Greece [FP]
+rhymes with grease
+
 +++++++++++++++++++++     Africa  ++++++++++++++++++++
 ----- Egypt [pl]
 Home of the Pyramids
@@ -47,20 +34,22 @@ funny name, funny people , everyone seems to have sharp chins
 coolest sounding country in Africa.
 ----Etheopia [MM]
 also a cool name.
->>>>>>> master
+--- South Africa [FP]
+Land where you can be animal food during safari
+--- Angola [FP]
+second largest lusophone
 
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 Great Wall of China seen from space
-<<<<<<< HEAD
----  Indonesia [FP]
-1300 ethnicities and 700 languages
-=======
 ------ Japan [DS]
 pretty cool place, cool stuff
 ----Korea [MM]
 home of kpop, i guess.
->>>>>>> master
+---  Indonesia [FP]
+1300 ethnicities and 700 languages
+--- Singapore [FP]
+where lion mermaids exist
 
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
@@ -74,4 +63,6 @@ not actually a real country, but always a country in our hearts.
 like Antarctica but on the other side of the world.
 ---- New Zealand [FP]
 Land where the habitants is a fruit called kiwi
+--- Fiji [FP]
+one of the most developed economies in the pacific
 
